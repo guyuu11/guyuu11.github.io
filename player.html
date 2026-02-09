@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+    <style>
+        body { margin: 0; padding: 0; background: transparent; }
+        .aplayer {
+            width: 100% !important;
+            border-radius: 0;
+            box-shadow: none;
+        }
+    </style>
+</head>
+<body>
+    <meting-js
+        server="netease"
+        type="playlist"
+        id="757045713"
+        autoplay="false"
+        theme="#FFC0CB"
+        loop="all"
+        order="random"
+        volume="0.7"
+    ></meting-js>
+</body>
+</html>

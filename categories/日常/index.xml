@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>日常 on 愚人与鱼</title>
+        <link>http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/</link>
+        <description>Recent content in 日常 on 愚人与鱼</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>愚人与鱼</copyright>
+        <lastBuildDate>Mon, 09 Feb 2026 10:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/%E6%97%A5%E5%B8%B8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>我的第一篇博客</title>
+        <link>http://localhost:1313/p/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</link>
+        <pubDate>Mon, 09 Feb 2026 10:00:00 +0800</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</guid>
+        <description>&lt;h1 id=&#34;你好这是我的第一篇博客&#34;&gt;你好，这是我的第一篇博客！
+&lt;/h1&gt;&lt;p&gt;这是我用Hugo搭建博客后写的第一篇文章，终于有了自己的小站点啦 🎉&lt;/p&gt;
+&lt;h2 id=&#34;为什么要写博客&#34;&gt;为什么要写博客？
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;记录生活和学习的点滴&lt;/li&gt;
+&lt;li&gt;分享自己的思考和经验&lt;/li&gt;
+&lt;li&gt;练习写作，沉淀内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;后续计划&#34;&gt;后续计划
+&lt;/h2&gt;&lt;p&gt;接下来会分享更多内容，比如：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如何用Hugo搭建博客&lt;/li&gt;
+&lt;li&gt;日常学习笔记&lt;/li&gt;
+&lt;li&gt;生活中的有趣瞬间&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;希望大家喜欢我的博客~ 😊&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

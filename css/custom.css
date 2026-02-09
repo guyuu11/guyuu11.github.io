@@ -1,0 +1,26 @@
+.single .article-content {
+  padding-right: 280px;
+}
+
+/* 右侧边栏固定定位，避免遮挡 */
+#right-sidebar .widget {
+  position: sticky;
+  top: 80px;
+  z-index: 10;
+}
+
+/* 响应式适配：小屏幕自动隐藏右侧边栏 */
+@media (max-width: 1024px) {
+  #right-sidebar {
+    display: none;
+  }
+  .single .article-content {
+    padding-right: 0;
+  }
+}/* 让文章里的图片默认居中并限制最大宽度 */
+.article-content img {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px; /* 可以根据需要调整 */
+  height: auto;
+}
